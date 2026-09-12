@@ -1,0 +1,10 @@
+{
+    "author": ["Ty"],
+    "min_bot_version": "3.5.0",
+    "description": "Zarządzanie serwerem gier LinuxGSM (start/stop/restart/status) z poziomu Discorda przez SSH - działa gdy bot jest w kontenerze.",
+    "hidden": false,
+    "requirements": ["asyncssh"],
+    "install_msg": "Dzieki za instalacje LinuxGSM cog! Skonfiguruj polaczenie SSH: [p]lgsmset host <adres>, [p]lgsmset user vhserver, [p]lgsmset uploadkey (z zalaczonym kluczem), [p]lgsmset path <sciezka>.",
+    "short": "Zarządzanie serwerem LinuxGSM z Discorda przez SSH.",
+    "tags": ["linuxgsm", "gameserver", "server management", "ssh"]
+}
